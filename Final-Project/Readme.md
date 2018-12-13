@@ -1,5 +1,6 @@
 # ECET360-final-project
-A new user is taken to the login screen upon opening where they are prompted to either login to an existing account or create a new account.<br>
+A new user is taken to the login screen upon opening where they are prompted to either<br>
+login to an existing account or create a new account.<br>
 Duplicate user names are not allowed. <br>
 Password fields have been used to limit visibility of the typed passwords.<br>
 A verification field has been added for passwords of new accounts.<br><br>
