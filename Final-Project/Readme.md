@@ -27,8 +27,8 @@ account creation, the login tab is disabled and the user is automatically taken 
 Dummy users have been added for demonstration purposes.  All dummy usernames and passwords can be found in the<br>
 “Action.java” class, or on the following page.<br><br>
 
-Username	Password
-jAdamsFamily	abc123
-Bfrank76 	abc123
-blinkinAndNod	abc123
+Username	Password<br>
+jAdamsFamily	abc123<br>
+Bfrank76 	abc123<br>
+blinkinAndNod	abc123<br>
 ZJed		abc123
